@@ -202,6 +202,16 @@ function displayForm(id){
 		</div>
 	 </div>
 	 
+	 <div class="col-md-4 col-sm-4 col-xs-12">
+	    <div align="center"><h4><b>Registered Data Information</b></h4></div>
+		<div align="right">
+		   <h5><b>100</b> Countries</h5>
+		   <h5><b>1000</b> States</h5>
+		   <h5><b>10000</b> MP Constituencies</h5>
+		   <h5><b>10000</b> MLA Constituencies</h5>
+		   <h5><b>100000</b> Postal Code Region</h5>
+		</div>
+	 </div>
   </div>
 
 </div>
